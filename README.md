@@ -1,12 +1,9 @@
-# northstar-health-systems
-
 # Northstar Health Systems
 
 ## Enterprise Governance, Risk & Compliance (GRC) Program
 
-> **Disclaimer:** Northstar Health Systems is a fictional organization created for educational and portfolio purposes. The documents in this repository demonstrate practical Governance, Risk, and Compliance (GRC) concepts aligned with industry frameworks and are not based on a real organization.
+**Disclaimer:** Northstar Health Systems is a fictional organization created for educational and portfolio purposes. The documents in this repository demonstrate practical Governance, Risk, and Compliance (GRC) concepts aligned with industry frameworks and are not based on a real organization.
 
----
 
 ## Organization Overview
 
@@ -16,7 +13,6 @@ The organization operates one hospital and four outpatient clinics while providi
 
 Because NHS manages sensitive patient information, financial data, and critical healthcare systems, it maintains a comprehensive Governance, Risk, and Compliance (GRC) program designed to identify, assess, mitigate, and monitor organizational risk.
 
----
 
 ## Business Profile
 
@@ -33,7 +29,6 @@ Because NHS manages sensitive patient information, financial data, and critical 
 | Productivity Suite | Microsoft 365 |
 | Regulatory Requirements | HIPAA, HITECH, PCI DSS |
 
----
 
 ## Repository Roadmap
 
@@ -49,7 +44,6 @@ This repository serves as the foundation for the following GRC projects:
 - Internal Audit Program
 - Executive Risk Dashboard
 
----
 
 ## Objectives
 
